@@ -6,7 +6,7 @@ let level = ""
 let xp = 1000
 
 // Referente a mensagens
-let congrat = "Parabéns, você alcançou o level "
+const congrat = "Parabéns, você alcançou o level "
 
 // Condições
 if(xp <= 1000){
